@@ -1,0 +1,50 @@
+_repo: The-wonders-of-salvage_75618
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Masters, David
+    alias: Brand, Charles Edwin
+    birthdate: 1883
+    deathdate: 1965
+    gutenberg_agent_id: '56023'
+    url: http://www.gutenberg.org/2009/agents/56023
+description: 'Reading ease score: 69.7 (8th & 9th grade). Neither easy nor difficult
+  to read.'
+gutenberg_bookshelf:
+- 'Browsing: Engineering & Construction'
+- 'Browsing: History - General'
+gutenberg_issued: '2025-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75618'
+language: en
+pgterms:marc904: https://archive.org/details/wondersofsalvage00mastuoft
+pgterms:marc905: 20221005052022masters
+pgterms:marc906: '1924'
+pgterms:marc907: GB
+production_note: deaurider and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bJohn Lane the Bodley Head Limited, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Salvage'
+- !lcc 'VK'
+- GITenberg
+summary: '"The Wonders of Salvage" by David Masters is a non-fiction account detailing
+  the art and challenges of maritime salvage, written in the early 20th century. The
+  narrative discusses the complex processes and trials faced by salvage experts as
+  they work to recover sunken vessels and their valuable cargoes, drawing on both
+  historical examples and the author''s own observations.   The opening of the book
+  sets the scene with a vivid depiction of a seasoned ship captain navigating through
+  a turbulent storm. As he skillfully guides his vessel, the text delves into the
+  melancholic reality of shipwrecks, emphasizing the annual economic losses they incur
+  and the aftermath of human negligence against nature''s might. Masters discusses
+  the essential role of salvage workers, the complexity of their challenges, their
+  relentless spirit, and the unpredictable influence of weather on salvage operations.
+  The text hints at thrilling stories of treasure recovery, detailing the remarkable
+  perseverance and ingenuity required to extract remnants of lost fortunes from the
+  depths of the ocean. (This is an automatically generated summary.)'
+title: The wonders of salvage
+url: http://www.gutenberg.org/ebooks/75618
